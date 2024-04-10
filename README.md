@@ -5,7 +5,7 @@ Desenvolver uma tela de login/register responsiva e atraente.
 
 ## Requisitos
 - Criar uma tela de login com e-mail, senha e botão de login. A tela deve ser responsiva e se adaptar a diferentes tamanhos de tela. Além disso, deve ter botões de login com Google, Facebook e Apple (não é necessário implementar a funcionalidade).
-- Criar uma tela de register com e-mail, nome, senha, confirmação de senha e botão de logout. A tela deve ser responsiva e se adaptar a diferentes tamanhos de tela. Além disso, deve ter botões de logout com Google, Facebook e Apple (não é necessário implementar a funcionalidade).
+- Criar uma tela de register com e-mail, nome, senha, confirmação de senha e botão de register. A tela deve ser responsiva e se adaptar a diferentes tamanhos de tela. Além disso, deve ter botões de register com Google, Facebook e Apple (não é necessário implementar a funcionalidade).
 - Deve ter um botão na tela de login que redireciona para a tela de register e vice-versa.
 - A tela de login deve ter um link para redefinir a senha (não é necessário implementar a funcionalidade).
 
