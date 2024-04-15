@@ -18,7 +18,7 @@ Desenvolver uma tela de login/register responsiva e atraente.
 ## Entrega
 - O código deve ser entregue em um repositório no GitHub público.
 - Além do código, inclua um arquivo README.md com uma breve descrição do projeto e o link para acessar a aplicação em produção (deploy).
-- O link do repositório deve ser enviado para o e-mail `agencianogueira.dev@gmail.com` ou pelo [WhatsApp](https://wa.me/5531998193412) até dia **12/04/2024 as 21:00 horas**
+- O link do repositório deve ser enviado para o e-mail `agencianogueira.dev@gmail.com` ou pelo [WhatsApp](https://wa.me/5531998193412)
 
 ## Considerações Finais
 - A qualidade do código, a organização da estrutura do projeto e a atenção aos detalhes serão levados em consideração na avaliação do desafio.
